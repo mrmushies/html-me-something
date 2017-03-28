@@ -1,0 +1,12 @@
+img {
+    width: auto;
+    max-width: 900px;
+    height: auto;
+    max-height: 900px;
+}
+
+li {font-size:30px;}
+
+p {font-size:30px;}
+
+figcaption {font-size:30px}
